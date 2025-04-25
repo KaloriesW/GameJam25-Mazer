@@ -16,6 +16,6 @@ All of the assets are assets that are:
 
 ### Access
 You can use the HTML Files to play or you can use the following links
-[Mazer Level 1](https://kaloriesw.github.io/GameJam25-Mazer/Mazer(lvl1).html)
-[Mazer Level 2](https://kaloriesw.github.io/GameJam25-Mazer/Mazer(lvl2).html)
+[Mazer Level 1](https://kaloriesw.github.io/GameJam25-Mazer/Mazer(lvl1).html)  
+[Mazer Level 2](https://kaloriesw.github.io/GameJam25-Mazer/Mazer(lvl2).html)  
 [Mazer Playground Level(you can't die)](https://kaloriesw.github.io/GameJam25-Mazer/Mazer(PlaygroundLevel).html)
