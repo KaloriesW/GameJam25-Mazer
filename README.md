@@ -16,6 +16,17 @@ All of the assets are assets that are:
  3. Made by me(Kalokit_Homes555 on Scratch) or the rest of my team in this Game Jam
 ## Gameplay
 
+Movement scripts:  
+W or Up Arrow: Forward  
+A: Sidestep Left  
+S or Down Arrow: Backward  
+D: Sidestep Right  
+Right Arrow: Turn Right  
+Left Arrow: Turn Left  
+Other:  
+R: Change Resolution  
+
+FPS: Frames Per Second
 
 ### Access
 You can use the HTML Files to play or you can use the following links  
