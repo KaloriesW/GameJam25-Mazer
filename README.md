@@ -1,4 +1,7 @@
 # GameJam25-Mazer
+
+![Relative](/SCR-20250404-ibyg.png)
+
 CGA Game Jam 2025 Public Repo for the game Mazer. A game where you navigate a maze while avoiding monsters.
 
 ## File Explanation
